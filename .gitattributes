@@ -1,0 +1,4 @@
+# .gitattribute file | REALSDEALS
+* text=auto
+*.bat text eol=crlf
+*.ps1 text eol=crlf
